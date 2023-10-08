@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My name is Christian. I'm a software developer from South Australia with an interest in natural languages, programming languages (and some programming language theory), and a whole bunch of other miscellaneous things like dinosaurs, fighter jets, and calvin-and-hobbesian combinations thereof.
 
+My personal site is located here: [https://www.ceigey.com/](https://www.ceigey.com/)
+
 ### Filling out the README template
 
 - 🔭 I’m currently working on: my own portfolio, my day job, completing Elden Ring, etc.
